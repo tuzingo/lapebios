@@ -1,0 +1,11 @@
+{
+  "name": "lapebios",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "scss": "^0.2.4"
+  },
+  "scripts": {
+    "dev": "sass --watch ./content/style.scss style.css"
+  }
+}
