@@ -20,7 +20,7 @@
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
                     <img src=""" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
-                    LAPEBIOS
+                    LAPEBios
                 </a>
             </div>
         </nav>
